@@ -4,4 +4,4 @@ Nakul's Notes
 
 ## Summary 
 
-This repository contains all of the notes taken by Nakul for the Lighthouse Labs Data Science Bootcamp.
+This repository contains all of the notes taken by [Nakul](https://github.com/quantng/lighthouse-data-notes) for the Lighthouse Labs Data Science Bootcamp.
